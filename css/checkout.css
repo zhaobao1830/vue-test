@@ -783,5 +783,14 @@
     display: none; }
   .addr-list-wrap {
     padding-bottom: 23px; } }
-
+.quantity{
+  line-height: 35px;
+}
+.quantity a,.quantity input{
+  display: block;
+  float: left;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+}
 /** 订单详情 **/

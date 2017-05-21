@@ -270,9 +270,11 @@ body {
     color: #fff; }
 
 input[type="text"], textarea {
-  padding: .5em 20px;
+  width: 50px;
+  padding: .5em 5px;
   border: 1px solid #bbb;
-  background: #white; }
+  background: #ffffff;
+}
 
 .up-down-btn {
   color: #EE7A23; }
